@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab_1.ScheduleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-04T11:14:40" hostname="DESKTOP-0R43Q8O" time="0.331">
+  <properties/>
+  <testcase name="goodtest" classname="lab_1.ScheduleTest" time="0.331"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[дек. 04, 2021 1:14:40 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 6.0.13.Final
+]]></system-err>
+</testsuite>
